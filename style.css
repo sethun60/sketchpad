@@ -1,0 +1,19 @@
+body {
+	font: 16px Arial, sans-serif;
+}
+
+#grid {
+	margin: 15px;
+	width: 960px;
+	height: 960px;
+}
+
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.square {
+	float: left;
+}
